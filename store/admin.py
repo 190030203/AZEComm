@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models.product import Products
+from .models.product import products
 from .models.category import Category
 from .models.customer import Customer
 from .models.orders import Order
